@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\QLSV_EF_CodeFirst.exe.config
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\QLSV_EF_CodeFirst.exe
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\QLSV_EF_CodeFirst.pdb
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.Form1.resources
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.UI.Form2.resources
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.exe
+C:\Users\ADMIN\Desktop\QLSV_EF_CodeFirst\QLSV_EF_CodeFirst\obj\Debug\QLSV_EF_CodeFirst.pdb
